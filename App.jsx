@@ -2,7 +2,7 @@ import LoginPage from "./Screens/loginandregister/Login";
 
 function App(){
     return(
-        <LoginPage/>
+         <LoginPage/>
     );
 }
 export default App;
